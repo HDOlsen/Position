@@ -1,0 +1,97 @@
+.navbar_wrapper {
+    background-color: rgb(0, 153, 255);
+    color: white;
+    padding: 1em;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: left;
+} 
+
+.navbar_wrapper p {
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: small;
+    font-weight: 100;
+    margin-left: 100px;
+    display: inline;
+}
+
+.navbar_wrapper h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: large;
+    font-weight: 300;
+    display: inline;
+}
+
+.review_wrapper {
+    background-color: lightgray;
+    color: dimgrey;
+    padding: .5em;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: left;
+}
+
+.review_wrapper h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: large;
+    font-weight: 800;
+    display: block;
+}
+
+.review_wrapper p {
+        color: rgba(0, 0, 0, 0.63);
+        font-family: Georgia, 'Times New Roman', Times, serif ;
+        font-size: smaller;
+        font-weight: 600;
+        display: block;
+}
+
+.bottom_wrapper {
+        background-color: white;
+        color: rgba(0, 0, 0, 0.63);
+        font-family: Georgia, 'Times New Roman', Times, serif ;
+        font-size: smaller;
+        padding: .5em;
+        margin-left: 150px;
+        margin-right: 150px;
+        text-align: left;
+
+}
+
+.bottom_wrapper h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    color: lightskyblue;
+    font-size: medium;
+    font-weight: 300;
+    display: inline;
+}
+
+.bottom_wrapper h1 {
+    background-color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    color: white;
+    padding: .20em;
+    font-size: small;
+    font-weight: 300;
+    display: block;
+}
+
+.bottom_wrap {
+    background-color: lightgrey;
+    color: dimgray;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: small;
+    padding: .5em;
+    display: inline;
+    margin-left: 400px;
+    margin-right: 150px;
+}
+
+.bottom_wrap h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: medium;
+    font-weight: 400;
+    margin-right: 50px;
+    display: inline;
+    text-align: center;
+}
